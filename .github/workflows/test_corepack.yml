@@ -1,6 +1,6 @@
 name: CI with corepack
 on:
-  workflow_call:
+  workflow_dispatch:
 
 jobs:
   core-pack:
